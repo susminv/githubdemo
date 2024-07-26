@@ -1,0 +1,4 @@
+#files to be ignored
+serve.txt
+#to ignore a given extension *.txt  or whatever other extension
+#dir/
